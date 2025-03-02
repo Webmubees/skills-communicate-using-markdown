@@ -4,6 +4,7 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
+###### Header 7
 ![Image of cat](https://images.app.goo.gl/NR6m7VAkberFduSL9)
 
 ```python
